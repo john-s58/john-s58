@@ -5,6 +5,6 @@
 -->
 👋 Hi, I’m Jonathan I am a Data & ML Engineer and a rust developer.
 
-Projects I am working on:
+Projects I am working on:\n
 Astra - A math and machine learning library written in rust.
 
