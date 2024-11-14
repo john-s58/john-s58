@@ -7,5 +7,3 @@
 
 Projects I am working on:<br>
 Astra - A math and machine learning library written in rust.
-
-[![John's GitHub stats](https://github-readme-stats.vercel.app/api?username=john-s58)](https://github.com/anuraghazra/github-readme-stats)
